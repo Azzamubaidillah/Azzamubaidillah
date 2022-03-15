@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/744973/63130880-bbd43600-bf70-11e9-91e7-0e7167771b5e.gif">
 <h3 align="center">A passionate Fluter Developer and Cloud Enthusiast</h3>
-<img align=right width=350 src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2417.jpg">
+<img align=right width=350 src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png">
 <br>
 <br>
 
